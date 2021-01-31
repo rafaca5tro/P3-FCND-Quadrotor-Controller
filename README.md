@@ -1,6 +1,6 @@
 # The C++ Project Readme #
 
-This is the readme for the C++ project.
+This is the readme for the C++ project. Please refer to the student [Writeup](https://github.com/rcgonzsv/P3-FCND-Quadrotor-Controller/blob/master/writeup.pdf) for a detailed walkthrough for the implementation.
 
 For easy navigation throughout this document, here is an outline:
 
